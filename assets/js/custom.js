@@ -173,7 +173,7 @@
 				// Home Parallax Counterup
 				if($('.parallax-counter').length){
 					$('.parallax-counter').parallax({
-						imageSrc: 'assets/images/photos/parallax/parallax-2.jpg',
+						imageSrc: 'assets/images/photos/parallax/parallax-2.JPG',
 						zIndex: '1'
 					});
 				}
