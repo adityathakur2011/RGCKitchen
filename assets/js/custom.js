@@ -195,7 +195,7 @@
 		var width = $(window).width();
 		$('.submenu').on('click', function() {
 			if(width < 992) {
-				$('.submenu ul').removeClass('active');
+				//$('.submenu ul').removeClass('active');
 				$(this).find('ul').toggleClass('active');
 			}
 		});
